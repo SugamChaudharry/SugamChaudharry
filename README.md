@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align = "right" alt = "coding" width = "400" scr = "github\code.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/SugamChaudharry/SugamChaudharry/assets/139050927/a875eb2a-ad6a-453f-b2cc-7b2be2eae8c7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugamchaudharry&label=Profile%20views&color=0e75b6&style=flat" alt="sugamchaudharry" /> </p>
 
@@ -30,10 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamchaudharry&show_icons=true&locale=en&layout=compact" alt="sugamchaudharry" /></p>
 
-<<<<<<< HEAD
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugamchaudharry&show_icons=true&locale=en" alt="sugamchaudharry" /></p>
-=======
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugamchaudharry&show_icons=true&locale=en" alt="sugamchaudharry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugamchaudharry&" alt="sugamchaudharry" /></p>
->>>>>>> bac453f159daeb7c6566fc3cb2e0eede14d4db4d
