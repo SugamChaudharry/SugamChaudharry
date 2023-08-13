@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm sugam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "right" alt = "coding" width = "400" scr = "![image](https://github.com/SugamChaudharry/SugamChaudharry/assets/139050927/feaca3bb-79b5-4b92-9caf-1a7118931119)
-">
+<img align = "right" alt = "coding" width = "400" scr = "https://github.com/SugamChaudharry/SugamChaudharry/assets/139050927/feaca3bb-79b5-4b92-9caf-1a7118931119">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugamchaudharry&label=Profile%20views&color=0e75b6&style=flat" alt="sugamchaudharry" /> </p>
 
