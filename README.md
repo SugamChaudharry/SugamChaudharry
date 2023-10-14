@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sugamchaudharry" target="blank"><img src="https://img.shields.io/twitter/follow/sugamchaudharry?logo=twitter&style=for-the-badge" alt="sugamchaudharry" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bio.link/nextgena](https://bio.link/nextgena)
+- 👨‍💻 All of my social's are available at [https://bio.link/nextgena](https://bio.link/nextgena)
 
 - 📝 I regularly write articles on [https://hashnode.com/@SugamChaudharry](https://hashnode.com/@SugamChaudharry)
 
