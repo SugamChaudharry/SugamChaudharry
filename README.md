@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamchaudharry&show_icons=true&locale=en&layout=compact" alt="sugamchaudharry" /></p>
 
-[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats)
+[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=SugamChaudharry&show_icons=true&theme=dracula)](https://github.com/SugamChaudharry/github-readme-stats)
