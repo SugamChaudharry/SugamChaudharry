@@ -13,8 +13,7 @@
 <p align="left"> <a href="https://twitter.com/sugamchaudharry" target="blank"><img src="https://img.shields.io/twitter/follow/sugamchaudharry?logo=twitter&style=for-the-badge" alt="sugamchaudharry" /></a> </p>
 
   - 🔭 I’m currently working on Web Development
-  - 🌱 I’m currently learning: React.js
-  - 💬 Ask me about: frontend Development
+  - 🌱 I’m currently learning the backend
   - 📫 How to reach me: through [linkedin](https://www.linkedin.com/in/sugam-chaudhary-400535235/)
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
