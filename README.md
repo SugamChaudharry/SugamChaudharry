@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=35&duration=4500&color=F7AB23&center=true&vCenter=true&random=false&width=435&lines=Hey+There!!+'%F0%9F%91%8B;I+Am+Sugam+.+.+.;Frontend+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=35&duration=4500&color=F7AB23&center=true&vCenter=true&random=false&width=435&lines=Hey+There!!+'%F0%9F%91%8B;I+Am+Sugam+.+.+.;Fullstack+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
   
 </div>
 
@@ -12,8 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugamchaudharry&label=Profile%20views&color=0e75b6&style=flat" alt="sugamchaudharry" /> </p>
 <p align="left"> <a href="https://twitter.com/sugamchaudharry" target="blank"><img src="https://img.shields.io/twitter/follow/sugamchaudharry?logo=twitter&style=for-the-badge" alt="sugamchaudharry" /></a> </p>
 
-  - 🔭 I’m currently working on Web Development
-  - 🌱 I’m currently learning the backend
+
   - 📫 How to reach me: through [linkedin](https://www.linkedin.com/in/sugam-chaudhary-400535235/)
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
