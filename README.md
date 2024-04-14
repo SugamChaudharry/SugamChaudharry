@@ -18,7 +18,7 @@
   - ⚡ Fun fact: I am still a newbie😄.
 
 <br />
-- 👨‍💻 All of my socials are available at [bio.link](https://bio.link/nextgena)
+- 👨‍💻 All of my socials are available at [bio.link](https://sugamchaudhary.bio.link/)
 <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamchaudharry&show_icons=true&locale=en&layout=compact" alt="sugamchaudharry" /></p>
