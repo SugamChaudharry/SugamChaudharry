@@ -14,8 +14,6 @@
 
 
   - 📫 How to reach me: through [linkedin](https://www.linkedin.com/in/sugam-chaudhary-400535235/)
-  - 😄 Pronouns: He/him.
-  - ⚡ Fun fact: I am still a newbie😄.
 
 <br />
 - 👨‍💻 All of my socials are available at [bio.link](https://sugamchaudhary.bio.link/)
