@@ -24,9 +24,8 @@
 
 ## Important Links
 <p align="center">
-  <a href="https://github.com/SugamChaudharry" target="_blank">💻 GitHub</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://sugamwtw.tech" target="_blank">🌐 Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/14vQ8mCW22lQASGgz7C4AEku2ags5VpPo/view" target="_blank">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1ZI7DqlWxFxpAUaOpQvVqDNSUfCmSYrTm/view" target="_blank">📄 Resume</a>
 </p>
 
 <br><br>
